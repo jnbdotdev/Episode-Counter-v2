@@ -11,7 +11,7 @@
 <div class="badges" align="left">
   <h3>You're reading in:</h3>
   <a href="https://github.com/jnbdotdev/Episode-Counter-v2/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/English-FF9C28?style=for-the-badge"/></a>
-  <a href="https://github.com/jnbdotdev/Episode-Counter-v2/blob/master/README-pt.md" target="_blank"><img src="https://img.shields.io/badge/PORTUGUESE-FFF?style=for-the-badge"/></a>
+  <a href="https://github.com/jnbdotdev/Episode-Counter-v2/blob/master/README-br.md" target="_blank"><img src="https://img.shields.io/badge/PORTUGUESE-FFF?style=for-the-badge"/></a>
 </div>
 <h2 id="resume">Resume</h2>
 <blockquote>
