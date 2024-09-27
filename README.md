@@ -1,5 +1,5 @@
 # Episode Counter
-## Resume
+## Resumo
 > ### Episode Counter v1
 > Episode Counter é uma ferramenta criada para auxiliar no dia a dia de consumidores de animes, séries, filmes, livros, entre outros. Ela armazena informações relacionadas ao conteúdo como o episódio no qual o usuário parou, qual o tipo do conteúdo, o dia de lançamento, se o usuário ainda está assistindo, já assistiu ou pretende assistir, e diversas outras funções disponíveis.
 Foi criado inicialmente para uso pessoal, pois eu não tinha acesso a grandes plataformas de streaming que armazenavam as informações citadas, portanto, desenvolvi a minha própria.
