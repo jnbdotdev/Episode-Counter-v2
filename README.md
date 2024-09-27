@@ -1,5 +1,5 @@
 <h1 width="100%" align="center">
-  <center><img src="img/logo1.png"/></center>
+  <center><img src="img/logo.png"/></center>
 </h1>
 <div class="badges" align="center">
   <img src="https://img.shields.io/static/v1?label=Language&labelColor=FF9C28&message=Java&color=F6F5F2&style=for-the-badge&logo=visualstudiocode"/>
