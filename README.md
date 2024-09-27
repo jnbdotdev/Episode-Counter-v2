@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/static/v1?label=Version&labelColor=FF9C28&message=2.0.0&color=F6F5F2&style=for-the-badge&logo=vonage"/>
   <img src="https://img.shields.io/static/v1?label=License&labelColor=FF9C28&message=MIT&color=F6F5F2&style=for-the-badge&logo=perforce"/>
 </div>
+<br>
+<div class="badges" align="left">
+  <h3>You're reading in:</h3>
+  <a href="https://github.com/jnbdotdev/Episode-Counter-v2/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/English-FF9C28?style=for-the-badge"/></a>
+  <a href="https://github.com/jnbdotdev/Episode-Counter-v2/blob/master/README-pt.md" target="_blank"><img src="https://img.shields.io/badge/PORTUGUESE-FFF?style=for-the-badge"/></a>
+</div>
 <h2 id="resume">Resume</h2>
 <blockquote>
 <h3 id="episode-counter-v1">Episode Counter v1</h3>
