@@ -31,7 +31,7 @@ To keep up with the pace of the job market, Episode Counter now has a connection
 <li><em>Dependency Manager:</em>
 In the first version of the tool, we used .jar files to add external libraries, now with <strong>Maven</strong>, this work was minimized exponentially, with just a few lines of code needed to bring the most recent version of the tool&#39;s dependencies.</li>
 </ul>
-<h2 id="how-it-works">How it Works</h2>
+<h2 id="how-it-works">How it Works</h2> 
 <h3 id="object-creation">Object Creation</h3>
 <p><strong>Content</strong>
 Inside the Episode Counter we have a main object called <em><a href="https://github.com/jnbdotdev/Episode-Counter-v2/blob/master/src/main/java/com/jnb/models/Content.java">Content</a></em> that has the respective attributes:</p>
